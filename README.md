@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -181,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
