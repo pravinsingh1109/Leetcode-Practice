@@ -212,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
