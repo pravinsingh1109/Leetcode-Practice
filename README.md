@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -210,14 +212,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 ## Trie
 |  |
 | ------- |
@@ -245,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
