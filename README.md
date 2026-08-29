@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Nim Game
 |  |
 | ------- |
