@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1563-stone-game-v) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0940-distinct-subsequences-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
