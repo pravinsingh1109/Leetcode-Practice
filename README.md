@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Nim Game
 |  |
 | ------- |
