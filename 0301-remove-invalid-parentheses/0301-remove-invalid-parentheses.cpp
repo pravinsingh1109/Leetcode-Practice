@@ -5,7 +5,6 @@ public:
 
         int l = 0, r = 0;
 
-        // Count minimum invalid '(' and ')'
         for (char ch : s) {
             if (ch == '(') {
                 l++;
@@ -34,30 +33,30 @@ public:
 
             if (ch == '(') {
 
-                // Remove '('
+                
                 if (left > 0) {
                     solve(i + 1, left - 1, right, curr, balance);
                 }
 
-                // Keep '('
+                
                 solve(i + 1, left, right, curr + ch, balance + 1);
 
             } 
             else if (ch == ')') {
 
-                // Remove ')'
+                
                 if (right > 0) {
                     solve(i + 1, left, right - 1, curr, balance);
                 }
 
-                // Keep ')' only when balance > 0
+                
                 if (balance > 0) {
                     solve(i + 1, left, right, curr + ch, balance - 1);
                 }
 
             } 
             else {
-                // Letter
+                
                 solve(i + 1, left, right, curr + ch, balance);
             }
         };
