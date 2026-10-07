@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
