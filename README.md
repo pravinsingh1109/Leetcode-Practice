@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
