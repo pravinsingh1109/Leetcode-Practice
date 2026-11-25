@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sekpurva-svg/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0835-image-overlap) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/pravinsingh1109/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
